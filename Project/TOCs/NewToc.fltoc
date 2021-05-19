@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="New Book 1">
+    <TocEntry
+      Title="Wstęp"
+      Link="/Content/E-pierwszy dokument/Wstęp.htm"
+      StartSection="false"
+      ReplaceMergeNode="false" />
+  </TocEntry>
+</CatapultToc>
