@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="LoremIpsum">LoremIpsum</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="loremipsum@gmail.com">loremipsum@gmail.com</Variable>
+  <Variable
+    Name="NewVariable"
+    Comment=""
+    EvaluatedDefinition="Magdalena Osak">Magdalena Osak</Variable>
+</CatapultVariableSet>
